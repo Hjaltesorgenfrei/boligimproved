@@ -5,6 +5,7 @@
 // @description  try to take over the world!
 // @author       You
 // @match        https://s.dk/studiebolig/*
+// @downloadURL  https://raw.githubusercontent.com/Hjaltesorgenfrei/boligimproved/master/sdkasyncsignup.user.js
 // @grant       GM_cookie
 // @grant       GM.cookie
 // ==/UserScript==
